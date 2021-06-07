@@ -1,0 +1,6 @@
+
+/* This removed unordered list bullet points! */
+ul {
+    list-style-type: none;
+    padding-inline-start: 0.25rem;
+}
