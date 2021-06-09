@@ -19,9 +19,9 @@ const database = {
     ],
     wheels: [
         {id: 1, type: "17-inch Pair Radial", price: 150.00},
-        {id: 1, type: "17-inch Pair Radial Black", price: 250.00},
-        {id: 1, type: "18-inch Pair Spoke Silver", price: 350.00},
-        {id: 1, type: "18-inch Pair Spoke Black", price: 450.00}
+        {id: 2, type: "17-inch Pair Radial Black", price: 250.00},
+        {id: 3, type: "18-inch Pair Spoke Silver", price: 350.00},
+        {id: 4, type: "18-inch Pair Spoke Black", price: 450.00}
     ],
     customOrders: [
         {
